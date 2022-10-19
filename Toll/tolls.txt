@@ -1,0 +1,3 @@
+Vehicle Number 1  VehicleType car   amount 50.0   Vip false
+Vehicle Number 2  VehicleType bus   amount 80.0   Vip true
+Vehicle Number 1  VehicleType car   amount 40.0   Vip true
